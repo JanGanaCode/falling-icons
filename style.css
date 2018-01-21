@@ -1,0 +1,19 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.icons {
+  text-align: center;
+  padding-top: 30px
+}
+
+.fa {
+  color: #558fed;
+  padding: 10px;
+  cursor: pointer;
+}
+
+
+h1 {
+  color: lightgrey
+}
